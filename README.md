@@ -5,14 +5,16 @@
 
 ###### [Languages](https://github.com/sunnnydaydev/Languages)
 
-###### [Android]()
+###### [Android](https://github.com/sunnnydaydev/AndroidNote)
 
-###### [Data Structure]()
+###### [Data Structure](https://github.com/sunnnydaydev/DataStructure)
 
-###### [Algorithm]()
+###### [Algorithm](https://github.com/sunnnydaydev/Exercise)
 
-###### [Design Patterns]()
+###### [Design Patterns](https://github.com/sunnnydaydev/DesignPatterns)
 
-###### [Computer Network]()
+###### [Computer Network](https://blog.csdn.net/qq_38350635/category_9613067.html)
 
-###### [Computer operating system]()
+###### Computer operating system
+
+###### Java EE
